@@ -61,6 +61,5 @@ Preparation, modelling, visualisation and interpretation of the data, allowed me
 * the best entry market movies for high revenue are multiple genre movies
 * the lengthiest movies should be between 120 - 140 minutes maximum
 * the industry leaders preferred creating Action, Drama & Comedy films
-* a movie can have high revenue domestically or foreign but not necessarily in both
-* we can help analyze directors/writers/actors within a certain genre/budget/runtime once you make a decision!
+
 
