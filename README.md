@@ -34,7 +34,7 @@ This project uses descriptive analytics including changes in trends over time & 
 ## Results
 * Which genres of movies are the most profitable?
 * Most popular movie genres?
-* 
+* What is the preferable length, for your movie to get a top rating
 
 Right, I couldn’t start without having a look at what genres make the most money. There are many types of genres, each averaging a wide distribution of profit since 2010. Based on the data available, the top 5 averaging film genres were Adventure, Action, Fantasy, and Family. Interestingly, Adventure films tend to average more than twice as much profit as thrillers, animations, and documentaries.  I assumed that the mean would be the most reliable average with the data we had and another assumption was that films have a single genre or multiple genres as well
 
